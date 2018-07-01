@@ -1,0 +1,8 @@
+/Users/andr_iusk/Projects/BelatrixWeb/BelatrixService/bin/Debug/netstandard2.0/BelatrixService.deps.json
+/Users/andr_iusk/Projects/BelatrixWeb/BelatrixService/bin/Debug/netstandard2.0/BelatrixService.dll
+/Users/andr_iusk/Projects/BelatrixWeb/BelatrixService/bin/Debug/netstandard2.0/BelatrixService.pdb
+/Users/andr_iusk/Projects/BelatrixWeb/BelatrixService/obj/Debug/netstandard2.0/BelatrixService.csproj.CoreCompileInputs.cache
+/Users/andr_iusk/Projects/BelatrixWeb/BelatrixService/obj/Debug/netstandard2.0/BelatrixService.AssemblyInfoInputs.cache
+/Users/andr_iusk/Projects/BelatrixWeb/BelatrixService/obj/Debug/netstandard2.0/BelatrixService.AssemblyInfo.cs
+/Users/andr_iusk/Projects/BelatrixWeb/BelatrixService/obj/Debug/netstandard2.0/BelatrixService.dll
+/Users/andr_iusk/Projects/BelatrixWeb/BelatrixService/obj/Debug/netstandard2.0/BelatrixService.pdb

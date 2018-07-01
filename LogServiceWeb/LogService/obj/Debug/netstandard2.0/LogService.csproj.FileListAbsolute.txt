@@ -1,0 +1,9 @@
+/Users/andr_iusk/Projects/LogServiceWeb/LogService/bin/Debug/netstandard2.0/LogService.deps.json
+/Users/andr_iusk/Projects/LogServiceWeb/LogService/bin/Debug/netstandard2.0/LogService.dll
+/Users/andr_iusk/Projects/LogServiceWeb/LogService/bin/Debug/netstandard2.0/LogService.pdb
+/Users/andr_iusk/Projects/LogServiceWeb/LogService/obj/Debug/netstandard2.0/LogService.csprojResolveAssemblyReference.cache
+/Users/andr_iusk/Projects/LogServiceWeb/LogService/obj/Debug/netstandard2.0/LogService.csproj.CoreCompileInputs.cache
+/Users/andr_iusk/Projects/LogServiceWeb/LogService/obj/Debug/netstandard2.0/LogService.AssemblyInfoInputs.cache
+/Users/andr_iusk/Projects/LogServiceWeb/LogService/obj/Debug/netstandard2.0/LogService.AssemblyInfo.cs
+/Users/andr_iusk/Projects/LogServiceWeb/LogService/obj/Debug/netstandard2.0/LogService.dll
+/Users/andr_iusk/Projects/LogServiceWeb/LogService/obj/Debug/netstandard2.0/LogService.pdb
